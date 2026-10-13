@@ -1,0 +1,8 @@
+.gradle/
+build/
+out/
+.env
+
+out/
+.env.*
+error-log.txt
